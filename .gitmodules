@@ -1,0 +1,21 @@
+[submodule "websites/etherdata-website"]
+	path = websites/etherdata-website
+	url = https://github.com/etherdata-blockchain/etherdata-website
+[submodule "websites/blockrial"]
+	path = websites/blockrial
+	url = https://github.com/etherdata-blockchain/blockrial.git
+[submodule "services/etherdata-admin-server"]
+	path = services/etherdata-admin-server
+	url = https://github.com/etherdata-blockchain/etherdata-admin-server
+[submodule "services/etd-local-admin-node"]
+	path = services/etd-local-admin-node
+	url = https://github.com/etherdata-blockchain/etd-local-admin-node
+[submodule "services/etdstats"]
+	path = services/etdstats
+	url = https://github.com/etherdata-blockchain/etdstats
+[submodule "demos/demos"]
+	path = demos/demos
+	url = https://github.com/etherdata-blockchain/demos
+[submodule "services/etherdata-sdk"]
+	path = services/etherdata-sdk
+	url = https://github.com/etherdata-blockchain/etherdata-sdk
