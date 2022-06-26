@@ -10,6 +10,10 @@
 - Blockchain tutorial website
 - Many interactive examples
 
+### [ETDStats](https://stats.etdchain.net)
+- Search block, transaction or user
+- Latest Block Info
+
 ## Services
 
 ### [Etherdata Admin Server](https://github.com/etherdata-blockchain/etherdata-admin-server/)
